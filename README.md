@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 
-![mikoli524's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoli524&layout=compact&hide_border=true&langs_count=10)
+<!-- ![mikoli524's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoli524&layout=compact&hide_border=true&langs_count=10)
+-->
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?   username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
 
 ![](https://raw.githubusercontent.com/mikoli524/mikoli524/main/assets/github-contribution-grid-snake.svg)              
 
