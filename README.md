@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 
+![](https://raw.githubusercontent.com/mikoli524/mikoli524/main/assets/github-contribution-grid-snake.svg)              
+
 <!--
 **mikoli524/mikoli524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
