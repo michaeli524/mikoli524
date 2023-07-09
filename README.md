@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning  ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 
-[![mikoli524's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikoli524)](https://github.com/mikoli524/github-readme-stats)
+<!--[![mikoli524's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikoli524)](https://github.com/mikoli524/github-readme-stats)-->
 ![mikoli524's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoli524&layout=compact&hide_border=true&langs_count=10)
 ![](https://raw.githubusercontent.com/mikoli524/mikoli524/main/assets/github-contribution-grid-snake.svg)              
 
